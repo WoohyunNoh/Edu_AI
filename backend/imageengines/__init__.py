@@ -1,0 +1,1 @@
+default_app_config = 'imageengines.image_training.AppConfigStartUp'
